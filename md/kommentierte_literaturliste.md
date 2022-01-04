@@ -1,29 +1,8 @@
-# Literaturliste
-
-_Max Grüntgens_, März 2021
-
-- [Literaturliste](#literaturliste)
-  - [Vorbemerkung](#vorbemerkung)
-    - [Ich habe nur Zeit für ein Buch!](#ich-habe-nur-zeit-für-ein-buch)
-    - [Ich habe nur Zeit für drei Bücher!](#ich-habe-nur-zeit-für-drei-bücher)
-    - [Ich habe Zeit für ein paar Bücher, will aber auch sofort praktisch arbeiten!](#ich-habe-zeit-für-ein-paar-bücher-will-aber-auch-sofort-praktisch-arbeiten)
-  - [Retrodigitalisierung, "Verdatung" und Aufbau einer Sammlung](#retrodigitalisierung-verdatung-und-aufbau-einer-sammlung)
-  - [Modellbildung](#modellbildung)
-  - [Datenmodellierung](#datenmodellierung)
-    - [Einstiegslektüre zum Textbegriff](#einstiegslektüre-zum-textbegriff)
-    - [Einstiegslektüre zum "Digitalen Bild"](#einstiegslektüre-zum-digitalen-bild)
-    - [Einstiegslektüre "Digitale Edition"](#einstiegslektüre-digitale-edition)
-  - [Relationale Datenbank](#relationale-datenbank)
-  - [Graphen und Netzwerke](#graphen-und-netzwerke)
-  - [Linked Open Data (LOD) und Sematic Web](#linked-open-data-lod-und-sematic-web)
-  - [Forschungs-Konzeption und Projekt-Arbeit](#forschungs-konzeption-und-projekt-arbeit)
-  - [Data Science-Workflow, Analyse und Visualisierung](#data-science-workflow-analyse-und-visualisierung)
-  - [Grundlagen Linguistik und Computerlinguistik](#grundlagen-linguistik-und-computerlinguistik)
-  - [Empfohlene Meta-Lektüre](#empfohlene-meta-lektüre)
-    - [Komplexitäts-Theorien](#komplexitäts-theorien)
-  - [Programmierung](#programmierung)
-    - [Python](#python)
-    - [JavaScript](#javascript)
+---
+title: Kommentierte Literaturliste Digital Humanities
+author: Max Grüntgens
+date: 4. Januar 2022
+---
 
 ## Vorbemerkung
 
@@ -85,6 +64,15 @@ Konsultieren Sie alle oder einige der oben genannten Bücher, um sich ein grundl
 > Luhmann exemplifiziert die Begriffe Modell, Methodik, Theorie, Daten u.a.m. im Kontext der Systemtheorie. 
 
 Siehe auch den Punkt _Empfohlene Meta-Lektüre_ unten.
+
++ **Flannery**, Kent V. / **Winter**, Marcus C. (2009): _Analyzing Household Activities_. In Flannery: The Early Mesoamerican Village: Updated Edition, S. 34–44.
+
+> Die Fallstudie zur Analyse geschlechtsspezifischer Aktivitätsbereiche innerhalb eines Hauses zeigt sehr schön auf, wie das Erkennen von Objekten, Strukturen, Clustern etc. und deren Interpretation von Modellen geleitet wird, aber gleichzeitig auch – in einer Feedbackschleife – auf die erkenntnisleitenden Modelle selbst zurückwirkt. Eine der Aufgaben der Forschenden ist es diesen Feedback-Loop in (selbst-)kritischer Weise in die allgemeien Forshcungsaktivität zu integrieren.        
+
++ **Flannery**, Kent V. / **Winter**, Marcus C. (2009) besprechen in Flannery: The Early Mesoamerican Village: Updated Edition, S. 49–71, in gut nachvollziehbaren Fallstudien verschiedene Sampling-Methoden zur Vorbereitung archäologischer Grabungen auf Ebene einer Gemeine.
++ **Flannery**, Kent V. / **Plog**, Stephen (2009) besprechen in Flannery: The Early Mesoamerican Village: Updated Edition, S. 131–159, in gut nachvollziehbaren Fallstudien verschiedene Sampling-Methoden zur Vorbereitung archäologischer Grabungen auf Ebene einer Region.
+
+> Die Fallstudien und Ausführungen zum Sampling eines Gebietes vor einer Grabungs-Kampagne sind ein gut nachvollziehbarer, da sehr praktisch ausgeirchteter Einstieg in den Nutzen von Sampling-Techniken zur Erstellung von Untermengen oder Untergruppen, die dann bearbeitet, modelliert oder analysiert werden sollen, um methodisch tragfähig Aussagen über die Gesamtmenge tätigen zu können. 
 
 ## Datenmodellierung
 
